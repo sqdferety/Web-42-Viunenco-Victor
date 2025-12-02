@@ -72,7 +72,7 @@ Proiect refăcut și tradus în română de un fost student care a predat acela�
 
 Pentru ajutor, personalizare (logo-ul colegiului tău, reguli specifice, integrare cu sistem existent), sau dacă vrei varianta completă cu tot codul sursă + raport de licență în română, scrie-mi direct:
 
-**Email:** chaudharitushar2077@gmail.com  
+**Email:** viunencovictor5@gmail.com  
 **Subiect:** "Certificare Online – Versiune Română 2025"
 
 Îți pot trimite:
@@ -83,3 +83,4 @@ Pentru ajutor, personalizare (logo-ul colegiului tău, reguli specifice, integra
 
 Succes la susținere!  
 (Proiect testat și apreciat la 10/10 în 2025 la mai multe colegii tehnice și universități din România)
+
